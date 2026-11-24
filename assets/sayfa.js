@@ -1,4 +1,4 @@
-/* Tılsım Perisi · prompt sayfaları: kopyalama, sekmeler, içindekiler */
+/* RealTest AI · prompt sayfaları: kopyalama, sekmeler, içindekiler */
 document.documentElement.classList.add('js');
 
 (function () {
